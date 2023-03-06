@@ -1,5 +1,4 @@
 type objType = { name: string; age: number; address: string; email: string };
-
 const person: objType = {
   // alternate way person:object
   name: "Subhashish Jung Shah",
